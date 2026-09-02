@@ -6,6 +6,9 @@ using TensorKitTensors.HubbardOperators
 using OptimKit
 using JLD2
 using Logging, LoggingExtras
+using LinearAlgebra
+
+BLAS.set_num_threads(1) 
 
 Random.seed!(123456789)
 
@@ -30,17 +33,19 @@ H = -t_hor  Σ_{⟨ij⟩ₕ} Σ_σ (c†_{iσ} c_{jσ} + h.c.)
 
 * `t_hor`  – hopping across horizontal bonds (columns, `+CartesianIndex(0,1)`)
 * `t_perp` – hopping across vertical bonds  (rows,    `+CartesianIndex(1,0)`)
+* 't_2'    – next-nearest-neighbour hopping (over 2 sites, `+CartesianIndex(0,2)`)
 * `U`      – on-site Hubbard repulsion `n↑ n↓`
 * `V_hor`  – horizontal nearest-neighbour density–density interaction `n_i n_j`
 * `V_perp` – perpendicular nearest-neighbour density–density interaction `n_i n_j`
+* 'V_2'    – next-nearest-neighbour density–density interaction `n_i n_j`
 * `mu`     – chemical potential
 
 Returns a `PEPSKit.LocalOperator` ready for CTMRG / PEPS optimization.
 """
-
+    
 function hubbard_2x2(
         T::Type{<:Number} = ComplexF64;
-        t_hor = 1.0, t_perp = 1.0, U = 8.0, V_hor = 0.0, V_perp = 0.0, mu = 0.0,
+        t_hor = 1.0, t_perp = 1.0, t_2 = 0.0, U = 8.0, V_hor = 0.0, V_perp = 0.0, V_2 = 0.0, mu = 0.0,
         lattice::InfiniteSquare = InfiniteSquare(2, 2),
     )
     particle_symmetry = Trivial
@@ -62,6 +67,7 @@ function hubbard_2x2(
 
     h_hor  = (-t_hor)  * hop + V_hor * dens + onsite_bond
     h_perp = (-t_perp) * hop + V_perp * dens + onsite_bond
+    h_2    = (-t_2)    * hop + V_2 * dens + onsite_bond
 
     spaces = fill(pspace, size(lattice))
 
@@ -69,6 +75,7 @@ function hubbard_2x2(
     for I in vertices(lattice)
         push!(terms, [I, I + CartesianIndex(0, 1)] => h_hor)   # horizontal bond
         push!(terms, [I, I + CartesianIndex(1, 0)] => h_perp)  # vertical bond
+        # push!(terms, [I, I + CartesianIndex(0, 2)] => h_2)   # next-nearest-neighbour bond swithed off for now
     end
     return LocalOperator(spaces, terms...)
 end
@@ -83,14 +90,14 @@ end
 n_density_op = e_num(ComplexF64, Trivial, Trivial)
 
 lattice = InfiniteSquare(2, 2);
-H = hubbard_2x2(; t_hor = 0.487, t_perp = 0.042, U = 3.593, V_hor = 1.026, V_perp = 0.841, mu = 0.0, lattice);
+H = hubbard_2x2(; t_hor = 0.487, t_perp = 0.042, t_2 = 0.0, U = 3.593, V_hor = 1.026, V_perp = 0.841, V_2 = 0.5, mu = 1.0, lattice);
 
 # =============================================================================
 # Preparing the PEPS ansatz and environment spaces
 # =============================================================================
 
 Dbond = 2      # virtual bond dimension per fermion-parity sector
-χenv  = 12     # CTMRG environment dimension per fermion-parity sector
+χenv  = 8    # CTMRG environment dimension per fermion-parity sector
 
 V_peps = Vect[FermionParity](0 => Dbond, 1 => Dbond)
 V_env  = Vect[FermionParity](0 => χenv,  1 => χenv)
@@ -159,7 +166,7 @@ function refine_env_finalize!((peps, env), E, grad, numiter)
     densities = measure_electron_density(peps, env_new)
     avg_density = sum(densities) / length(densities)
     site_densities = join(
-        ("$(Tuple(I))=>$(round(d; digits = 8))" for (I, d) in zip(vertices(lattice), densities)),
+        ("$(Tuple(I))=>$(round(d; digits = 3))" for (I, d) in zip(vertices(lattice), densities)),
         ", ",
     )
 
@@ -169,7 +176,7 @@ function refine_env_finalize!((peps, env), E, grad, numiter)
         end
     end
     open(finalize_logfile, "a") do io
-        println(io, "$numiter\t$(real(E))\t$gradnorm\t$avg_density\t$site_densities")
+        println(io, "$numiter\t$(round(real(E); digits = 4))\t$(round(gradnorm; digits = 4))\t$(round(avg_density; digits = 4))\t$site_densities")
     end
 
     return (peps, env_new), E, grad
