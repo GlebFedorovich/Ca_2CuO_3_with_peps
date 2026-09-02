@@ -1,0 +1,9 @@
+[deps]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+MPSKitModels = "ca635005-6f8c-4cd1-b51d-8491250ef2ab"
+OptimKit = "77e91f04-9b3b-57a6-a776-40b61faaebe0"
+PEPSKit = "52969e89-939e-4361-9b68-9bc7cde4bdeb"
+TensorKit = "07d1fe3e-3e46-537d-9eac-e9e13d0d4cec"
+TensorKitTensors = "41b62e7d-e9d1-4e23-942c-79a97adf954b"
