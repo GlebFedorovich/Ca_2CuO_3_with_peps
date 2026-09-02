@@ -147,13 +147,8 @@ refine_boundary_alg = (;
     verbosity     = 3,
 )
 
-# txt file (in the output directory) accumulating, one line per accepted
-# optimization step: energy, gradient norm and the measured electron density
+
 finalize_logfile = "output/finalize_metrics.txt"
-
-# single-site electron-number operator n = n↑ + n↓, matching H's physical space
-
-
 
 function refine_env_finalize!((peps, env), E, grad, numiter)
     println("refine_env_finalize!: re-contracting PEPS env at $numiter optimization step")
