@@ -126,8 +126,20 @@ V_env  = Vect[S]((0,0,0) => χenv ÷ 4,  (1,1,1/2) => χenv ÷ 4, (1,1,-1/2) => 
 
 physical_spaces = physicalspace(H)
 virtual_spaces  = fill(V_peps, size(lattice)...)
-
 peps₀ = InfinitePEPS(randn, ComplexF64, physical_spaces, virtual_spaces);
+
+# -----------------------------------------------------------------------------
+# Simple update pre-optimization to get a better initial PEPS
+# -----------------------------------------------------------------------------
+su_alg = SimpleUpdate(; trunc = truncrank(3), bipartite = false)
+dt = 1.0e-2
+su_steps = 200
+su_wts = SUWeight(peps₀)
+peps₀, su_wts, = time_evolve(
+    peps₀, H, dt, su_steps, su_alg, su_wts;
+    tol = 1.0e-7, verbosity = 2, check_interval = 50,
+);
+
 
 # =============================================================================
 # Define main optimization algorithms and parameters
@@ -214,7 +226,7 @@ function refine_env_finalize!((peps, env), E, grad, numiter)
     return (peps, env_new), E, grad
 end
 
-# converge an initial environment on peps₀
+# converge an initial environment on peps₀, seeded from the simple-update weights
 env_warm_up, = leading_boundary(CTMRGEnv(peps₀, V_env), peps₀; refine_boundary_alg...);
 env₀, = leading_boundary(env_warm_up, peps₀; boundary_alg...);
 
