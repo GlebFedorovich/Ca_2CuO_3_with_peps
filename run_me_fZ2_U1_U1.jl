@@ -7,10 +7,11 @@ using OptimKit
 using JLD2
 using Logging, LoggingExtras
 using LinearAlgebra
+using MPSKit
 
 BLAS.set_num_threads(1) 
 
-Random.seed!(123456789)
+Random.seed!(1234)
 
 mkpath("output")
 logname = "output/run_log_temp.log"
@@ -48,8 +49,8 @@ function hubbard_2x2(
         t_hor = 1.0, t_perp = 1.0, t_2 = 0.0, U = 8.0, V_hor = 0.0, V_perp = 0.0, V_2 = 0.0, mu = 0.0,
         lattice::InfiniteSquare = InfiniteSquare(2, 2),
     )
-    particle_symmetry = Trivial
-    spin_symmetry = Trivial
+    particle_symmetry = U1Irrep
+    spin_symmetry = U1Irrep
 
     # --- one-site operators --------------------------------------------------
     n_op  = e_num(T, particle_symmetry, spin_symmetry)    # n = n↑ + n↓
@@ -81,31 +82,52 @@ function hubbard_2x2(
 end
 
 function measure_electron_density(peps, env)
-    pspaces = physicalspace(H)
+    pspaces = physicalspace(peps)
     return map(vertices(lattice)) do I
-        real(expectation_value(peps, LocalOperator(pspaces, [I] => n_density_op), env))
+        # use the per-site density operator carrying the fused auxiliary charge
+        op = n_density.terms[[I]]
+        real(expectation_value(peps, LocalOperator(pspaces, [I] => op), env))
     end
 end
 
-n_density_op = e_num(ComplexF64, Trivial, Trivial)
 
 lattice = InfiniteSquare(2, 2);
-H = hubbard_2x2(; t_hor = 0.487, t_perp = 0.042, t_2 = 0.0, U = 3.593, V_hor = 1.026, V_perp = 0.841, V_2 = 0.5, mu = 1.0, lattice);
+H_init = hubbard_2x2(; t_hor = 0.487, t_perp = 0.042, t_2 = 0.0, U = 3.593, V_hor = 1.026, V_perp = 0.841, V_2 = 0.5, mu = 0.0, lattice);
+
+# define the fermionic symmetry and the auxiliary charge matrix for the physical space
+fermion = fℤ₂
+particle_symmetry = U1Irrep
+spin_symmetry = U1Irrep
+S = fermion ⊠ particle_symmetry ⊠ spin_symmetry
+
+S_aux_matrix = [S(1,1,1/2) S(1,1,-1/2);
+                S(1,1,-1/2) S(1,1,1/2)];
+H = MPSKit.add_physical_charge(H_init, S_aux_matrix);
+
+# electron-density operator, charged the same way as the Hamiltonian so it acts on
+# the fused physical spaces of the PEPS
+n_density_op = e_num(ComplexF64, particle_symmetry, spin_symmetry)
+n_density_init = LocalOperator(
+    fill(space(n_density_op, 1), size(lattice)),
+    ([I] => n_density_op for I in vertices(lattice))...,
+);
+n_density = MPSKit.add_physical_charge(n_density_init, S_aux_matrix);
+
 
 # =============================================================================
 # Preparing the PEPS ansatz and environment spaces
 # =============================================================================
 
-Dbond = 2      # virtual bond dimension per fermion-parity sector
-χenv  = 8    # CTMRG environment dimension per fermion-parity sector
+Dbond = 1      # virtual bond dimension scale
+χenv  = 32   # CTMRG environment dimension in total
 
-V_peps = Vect[FermionParity](0 => Dbond, 1 => Dbond)
-V_env  = Vect[FermionParity](0 => χenv,  1 => χenv)
+V_peps = Vect[S]((0,0,0) => Dbond, (1,1,1/2) => Dbond, (1,1,-1/2) => Dbond);
+V_env  = Vect[S]((0,0,0) => χenv ÷ 4,  (1,1,1/2) => χenv ÷ 4, (1,1,-1/2) => χenv ÷ 4, (0,2,0) => χenv ÷ 4);
 
 physical_spaces = physicalspace(H)
 virtual_spaces  = fill(V_peps, size(lattice)...)
 
-peps₀ = InfinitePEPS(randn, ComplexF64, physical_spaces, virtual_spaces)
+peps₀ = InfinitePEPS(randn, ComplexF64, physical_spaces, virtual_spaces);
 
 # =============================================================================
 # Define main optimization algorithms and parameters
@@ -170,20 +192,33 @@ function refine_env_finalize!((peps, env), E, grad, numiter)
         ", ",
     )
 
+    metric_row(step, energy, gnorm, avg, sites) = string(
+        rpad(step, 7), rpad(energy, 12), rpad(gnorm, 12), rpad(avg, 13), sites,
+    )
+
     if !isfile(finalize_logfile)
         open(finalize_logfile, "w") do io
-            println(io, "# step\tenergy\tgradnorm\tavg_density\tsite_densities")
+            println(io, metric_row("# step", "energy", "gradnorm", "avg_density", "site_densities"))
         end
     end
     open(finalize_logfile, "a") do io
-        println(io, "$numiter\t$(round(real(E); digits = 4))\t$(round(gradnorm; digits = 4))\t$(round(avg_density; digits = 4))\t$site_densities")
+        println(io, metric_row(
+            numiter,
+            round(real(E); digits = 4),
+            round(gradnorm; digits = 4),
+            round(avg_density; digits = 4),
+            site_densities,
+        ))
     end
 
     return (peps, env_new), E, grad
 end
 
 # converge an initial environment on peps₀
-env₀, = leading_boundary(CTMRGEnv(peps₀, V_env), peps₀; boundary_alg...);
+env_warm_up, = leading_boundary(CTMRGEnv(peps₀, V_env), peps₀; refine_boundary_alg...);
+env₀, = leading_boundary(env_warm_up, peps₀; boundary_alg...);
+
+sum(measure_electron_density(peps₀, env₀))  # sanity check: electron density on each site of the unit cell
 
 # =============================================================================
 # Start the main fixed-point optimization loop

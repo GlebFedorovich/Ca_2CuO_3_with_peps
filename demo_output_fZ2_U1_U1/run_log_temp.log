@@ -1,0 +1,1221 @@
+┌ Info: CTMRG init:	obj = -9.487067879849e-01 -2.193148226124e+00im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.046099755879e+02 -1.967678695199e+02im	err = 3.8656167629e-01	time = 0.13 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = -6.944082052855e+00 +3.051952145448e+01im	err = 4.7208888267e-01	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = -1.032350469668e+03 -7.449435991621e+02im	err = 7.0951677008e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = -3.487327919817e+02 +1.870062653228e+02im	err = 8.9869824931e-01	time = 0.13 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = -2.174570265605e+02 +1.228389873239e+02im	err = 1.1335871770e+00	time = 0.14 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +3.165845414845e+02 -1.404747522985e+03im	err = 1.2838623167e+00	time = 0.14 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = -7.039458012332e+02 -2.824264275747e+03im	err = 1.0319470309e+00	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = -4.332461147848e+02 -4.322655216296e+01im	err = 1.1369737827e+00	time = 0.15 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +5.559347962821e+03 -1.404929106681e+03im	err = 1.1663274775e+00	time = 0.26 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = -2.841458340390e+02 +6.856675020135e+02im	err = 1.2159118436e+00	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +4.827312334792e+02 +1.285234411625e-04im	err = 1.1813477349e+00	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +4.827311197234e+02 +1.160730568017e-05im	err = 4.8901949964e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +4.827311309289e+02 +4.115106349900e-06im	err = 1.1073205550e-01	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +4.827311238210e+02 -6.972114476866e-07im	err = 1.0152381769e-01	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +4.827311259661e+02 +2.115799333069e-06im	err = 1.1073596543e-01	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +4.827311248853e+02 -2.200473574021e-06im	err = 1.2204209723e-01	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +4.827311255346e+02 +1.750216540586e-06im	err = 1.2203921088e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +4.827311252424e+02 -2.278924029042e-06im	err = 1.2204285282e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +4.827311254563e+02 +1.723597051750e-06im	err = 1.2204191860e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +4.827311253345e+02 -2.289255888854e-06im	err = 1.2204216418e-01	time = 1.94 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +4.827311253345e+02 -2.289255888854e-06im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +4.827311253156e+02 -2.496507505612e-06im	err = 1.4770516384e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +4.827311253035e+02 -2.458432902586e-06im	err = 4.9652996413e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +4.827311253115e+02 -2.456560650899e-06im	err = 1.2042854131e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +4.827311253087e+02 -2.457707580561e-06im	err = 5.5923888424e-07	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +4.827311253105e+02 -2.457500414721e-06im	err = 2.8340245565e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +4.827311253099e+02 -2.457773831566e-06im	err = 1.2140068655e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +4.827311253103e+02 -2.457754277430e-06im	err = 6.5756362748e-08	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +4.827311253102e+02 -2.457811660861e-06im	err = 2.8063427366e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +4.827311253103e+02 -2.457807767087e-06im	err = 1.5192426984e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 10:	obj = +4.827311253102e+02 -2.457819761048e-06im	err = 6.4519484547e-09	time = 0.45 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: CTMRG init:	obj = +2.149557237193e-04 -1.094444535541e-12im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +2.149557237193e-04 -1.094444996327e-12im	err = 3.5080834061e-09	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +2.149557237193e-04 -1.094445118300e-12im	err = 1.4776819440e-09	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +2.149557237193e-04 -1.094444847249e-12im	err = 8.1020377869e-10	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 4:	obj = +2.149557237193e-04 -1.094445633296e-12im	err = 3.3845100391e-10	time = 0.19 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Warning: Expectation value is not real: 10.396473081847898 + 1.2260990010910536e-6im.
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/toolbox.jl:67
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (3.55e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (1.03e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (4.80e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.45e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (2.41e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 6: 0 values converged, normres = (4.70e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 7: 0 values converged, normres = (1.77e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 8: 0 values converged, normres = (7.38e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 9: 0 values converged, normres = (2.14e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 10: 0 values converged, normres = (2.96e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 11: 0 values converged, normres = (6.27e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 12: 0 values converged, normres = (1.11e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (2.71e-08)
+│ * number of operations = 13
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: LBFGS: initializing with f = 1.039647308185e+01, ‖∇f‖ = 4.8895e+00
+└ @ OptimKit /Users/gfedorov/.julia/packages/OptimKit/S0cVY/src/lbfgs.jl:83
+┌ Info: CTMRG init:	obj = +2.153387005804e-04 -3.686370775150e-12im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +2.154043928277e-04 -8.140532383382e-13im	err = 7.0712688406e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +2.154058702226e-04 -1.105545844216e-12im	err = 7.0566022880e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +2.154060375919e-04 -1.435680418408e-12im	err = 5.7677966272e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +2.154060730707e-04 -1.411665462260e-12im	err = 1.3566033974e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +2.154060839996e-04 -1.411218459257e-12im	err = 5.0622306828e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +2.154060861321e-04 -1.382798606522e-12im	err = 1.6696379886e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +2.154060868021e-04 -1.382891414228e-12im	err = 9.9577715414e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +2.154060868686e-04 -1.375962481432e-12im	err = 3.5802841968e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +2.154060868977e-04 -1.375915643898e-12im	err = 2.0879056194e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +2.154060868879e-04 -1.374296753872e-12im	err = 8.7816521118e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +2.154060868863e-04 -1.374231376481e-12im	err = 4.4230759655e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +2.154060868827e-04 -1.373851417829e-12im	err = 2.0317566088e-06	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +2.154060868817e-04 -1.373819921756e-12im	err = 9.5770574296e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +2.154060868809e-04 -1.373730014291e-12im	err = 4.6511090593e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +2.154060868806e-04 -1.373719443320e-12im	err = 2.0974824407e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +2.154060868804e-04 -1.373698287825e-12im	err = 1.0596913438e-07	time = 0.22 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +2.154060868803e-04 -1.373695170744e-12im	err = 4.6337037108e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +2.154060868802e-04 -1.373689925916e-12im	err = 2.4173046375e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +2.154060868802e-04 -1.373689641313e-12im	err = 1.0305147339e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 20:	obj = +2.154060868802e-04 -1.373688042114e-12im	err = 5.5262206187e-09	time = 1.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Warning: Expectation value is not real: 10.347058335870095 + 1.0990858205340176e-6im.
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/toolbox.jl:67
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (3.50e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (1.03e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (4.79e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.43e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (2.37e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 6: 0 values converged, normres = (4.65e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 7: 0 values converged, normres = (1.75e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 8: 0 values converged, normres = (7.32e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 9: 0 values converged, normres = (2.13e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 10: 0 values converged, normres = (3.02e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 11: 0 values converged, normres = (6.20e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 12: 0 values converged, normres = (1.08e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (2.61e-08)
+│ * number of operations = 13
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +2.174412260608e-04 -1.500462520074e-11im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +2.192246695251e-04 -1.053612980282e-12im	err = 3.9710863168e-02	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +2.192925290665e-04 -3.404299967467e-12im	err = 3.2019636316e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +2.193025864114e-04 -3.223074083558e-12im	err = 3.0456426649e-02	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +2.193047878441e-04 -3.111006366256e-12im	err = 6.3726211045e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +2.193053285949e-04 -2.964361503661e-12im	err = 2.8122087224e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +2.193054556624e-04 -2.843148053143e-12im	err = 9.7199139349e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +2.193054875080e-04 -2.808923232900e-12im	err = 6.8050393327e-04	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +2.193054944176e-04 -2.785211148629e-12im	err = 1.9538299382e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +2.193054962499e-04 -2.777844035524e-12im	err = 1.5025235438e-04	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +2.193054965545e-04 -2.773282336199e-12im	err = 4.5454207933e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +2.193054966545e-04 -2.771409160105e-12im	err = 3.2464888590e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +2.193054966523e-04 -2.770500381844e-12im	err = 1.0598332011e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +2.193054966559e-04 -2.769998098083e-12im	err = 7.0705220345e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +2.193054966514e-04 -2.769813255165e-12im	err = 2.4514880678e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +2.193054966509e-04 -2.769680697897e-12im	err = 1.6413434609e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +2.193054966496e-04 -2.769641558199e-12im	err = 5.6522619764e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +2.193054966494e-04 -2.769606999254e-12im	err = 3.8069490345e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +2.193054966491e-04 -2.769599206551e-12im	err = 1.3046403167e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +2.193054966490e-04 -2.769590587144e-12im	err = 8.8346357175e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  20:	obj = +2.193054966490e-04 -2.769588838868e-12im	err = 3.0171115742e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  21:	obj = +2.193054966489e-04 -2.769586534938e-12im	err = 2.0523276521e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 22:	obj = +2.193054966489e-04 -2.769586819541e-12im	err = 6.9912542899e-09	time = 1.02 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Warning: Expectation value is not real: 10.137212309693867 + 1.5560125074056487e-6im.
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/toolbox.jl:67
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (3.29e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (9.81e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (4.62e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.31e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (2.13e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 6: 0 values converged, normres = (4.30e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 7: 0 values converged, normres = (1.61e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 8: 0 values converged, normres = (6.61e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 9: 0 values converged, normres = (2.00e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 10: 0 values converged, normres = (3.18e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 11: 0 values converged, normres = (5.87e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (9.21e-08)
+│ * number of operations = 12
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +2.418700777756e-04 -9.698817462589e-11im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +3.159588403519e-04 -1.512802866104e-10im	err = 1.1869587037e-01	time = 0.03 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +3.268739562584e-04 -7.452532479481e-11im	err = 1.6699839647e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +3.288258959626e-04 -2.901424952617e-11im	err = 1.3660591432e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +3.291341522966e-04 -5.621653858569e-12im	err = 4.6954534425e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +3.291818631688e-04 +3.211534228657e-13im	err = 2.1092752305e-02	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +3.291892768406e-04 +2.267544631880e-12im	err = 7.0405504329e-03	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +3.291904271309e-04 +2.825877010691e-12im	err = 3.2250085443e-03	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +3.291906077897e-04 +3.048068497906e-12im	err = 1.1286009165e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +3.291906354366e-04 +3.115750414834e-12im	err = 5.0788532612e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +3.291906400263e-04 +3.147030081191e-12im	err = 1.7546738451e-04	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +3.291906406651e-04 +3.156807958484e-12im	err = 7.8679716606e-05	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +3.291906408098e-04 +3.161543563838e-12im	err = 2.7368356629e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +3.291906408206e-04 +3.163036184969e-12im	err = 1.2179859704e-05	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +3.291906408293e-04 +3.163767018548e-12im	err = 4.2705530812e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +3.291906408288e-04 +3.163997194669e-12im	err = 1.8849195838e-06	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +3.291906408299e-04 +3.164110060115e-12im	err = 6.6662284638e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +3.291906408298e-04 +3.164145486421e-12im	err = 2.9169962650e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +3.291906408299e-04 +3.164163402862e-12im	err = 1.0406505065e-07	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +3.291906408299e-04 +3.164169664130e-12im	err = 4.5143410539e-08	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  20:	obj = +3.291906408299e-04 +3.164171453063e-12im	err = 1.6245073868e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 21:	obj = +3.291906408299e-04 +3.164173052262e-12im	err = 6.9868376582e-09	time = 1.00 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Warning: Expectation value is not real: 8.774186796952474 + 3.1113263801313555e-6im.
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/toolbox.jl:67
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.81e-01)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (4.33e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (1.44e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (2.16e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (3.94e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 6: 0 values converged, normres = (4.66e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 7: 0 values converged, normres = (7.81e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 8: 0 values converged, normres = (1.70e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 9: 0 values converged, normres = (3.49e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (7.27e-08)
+│ * number of operations = 10
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +8.345605594041e-04 -1.760585654315e-09im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.299033196205e-02 -7.122305671452e-09im	err = 6.0398645379e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.294369151209e-02 +1.049839460157e-10im	err = 4.3800711704e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.294352486333e-02 +9.134212483608e-12im	err = 4.3259667286e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.294352305872e-02	err = 2.9794019197e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.294352305879e-02	err = 1.2127213345e-02	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.294352305879e-02	err = 1.1601576452e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.294352305879e-02	err = 2.0912380267e-05	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.294352305879e-02	err = 1.1891228937e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.294352305879e-02	err = 1.1274624457e-08	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 10:	obj = +1.294352305879e-02	err = 4.8513642428e-10	time = 0.46 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.35e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (2.16e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (4.30e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.90e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (5.51e-09)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +8.268119091469e-04 -1.737669283800e-09im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.277462454112e-02 -7.040654712888e-09im	err = 6.0198871017e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.272900748841e-02 +1.043427210953e-10im	err = 4.3793285821e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.272884191879e-02 +9.318388942414e-12im	err = 4.2953611144e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.272884013499e-02	err = 2.9783049863e-01	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.272884013505e-02	err = 1.1939514946e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.272884013505e-02	err = 1.1518143762e-03	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.272884013505e-02	err = 2.0574832461e-05	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.272884013505e-02	err = 1.1703565237e-06	time = 0.04 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.272884013505e-02	err = 1.2207570875e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 10:	obj = +1.272884013505e-02	err = 5.0315156674e-10	time = 0.46 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.37e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (2.24e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (4.46e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.98e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (5.76e-09)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.272884013505e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.272884013556e-02	err = 2.3398362429e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.272884013556e-02	err = 1.8510514004e-01	time = 0.12 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.272884013556e-02	err = 1.0840475104e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.272884013556e-02	err = 3.8498566695e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.272884013556e-02	err = 1.8506759362e-01	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.272884013556e-02	err = 1.0840448239e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.272884013556e-02	err = 3.8498565986e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.272884013556e-02	err = 1.8506759387e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.272884013556e-02	err = 1.0840448238e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.272884013556e-02	err = 3.8498565986e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.272884013556e-02	err = 1.8506759387e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.272884013556e-02	err = 1.0840448238e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.272884013556e-02	err = 3.8498565986e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.272884013556e-02	err = 1.8506759387e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.272884013556e-02	err = 1.0840448238e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.272884013556e-02	err = 3.8498565986e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.272884013556e-02	err = 1.8506759387e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.272884013556e-02	err = 1.0840448238e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.272884013556e-02	err = 3.8498565986e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.272884013556e-02	err = 1.8506759387e-01	time = 1.54 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.361635758534e-02 -9.899112779488e-14im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.362328367976e-02	err = 1.5332659569e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.362328564956e-02	err = 1.1518572852e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.362328565666e-02	err = 1.0151330989e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.362328565668e-02	err = 1.7452304384e-03	time = 0.12 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.362328565668e-02	err = 1.7658156319e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.362328565668e-02	err = 1.0589739894e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.362328565668e-02	err = 8.6202162165e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.362328565668e-02	err = 2.2362930957e-08	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 9:	obj = +1.362328565668e-02	err = 6.9199818535e-10	time = 0.65 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.14e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (2.85e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (9.43e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (2.62e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (6.49e-09)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.362328565668e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.362328565668e-02	err = 1.6720823045e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.362328565668e-02	err = 1.6469147721e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.362328565668e-02	err = 1.3822943526e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.362328565668e-02	err = 3.5981927154e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.362328565668e-02	err = 1.3822964778e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.362328565668e-02	err = 3.5981934515e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.362328565668e-02	err = 1.3822964834e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.362328565668e-02	err = 3.5981934516e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.362328565668e-02	err = 1.3822964755e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.362328565668e-02	err = 3.5981934518e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.362328565668e-02	err = 1.3822964834e-01	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.362328565668e-02	err = 3.5981934516e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.362328565668e-02	err = 1.3822964755e-01	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.362328565668e-02	err = 3.5981934518e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.362328565668e-02	err = 1.3822964834e-01	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.362328565668e-02	err = 3.5981934516e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.362328565668e-02	err = 1.3822964755e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.362328565668e-02	err = 3.5981934518e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.362328565668e-02	err = 1.3822964834e-01	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.362328565668e-02	err = 3.5981934516e-02	time = 1.39 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +8.144776243868e-03 +4.493471567057e-13im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +9.832111778537e-03 +1.050166030525e-12im	err = 5.6134783378e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +9.848928737758e-03	err = 2.6225269368e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +9.849110195280e-03	err = 2.1389655639e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +9.849112193771e-03	err = 3.0526058773e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +9.849112215825e-03	err = 2.2952496377e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +9.849112216070e-03	err = 1.4742519027e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +9.849112216072e-03	err = 1.8066316803e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +9.849112216072e-03	err = 2.7314477012e-05	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +9.849112216072e-03	err = 2.4789969214e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +9.849112216072e-03	err = 5.9846075418e-07	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +9.849112216072e-03	err = 4.4317403089e-08	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +9.849112216072e-03	err = 1.0923282366e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 13:	obj = +9.849112216072e-03	err = 1.0547353047e-09	time = 0.93 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (5.77e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (3.95e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (1.30e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (4.76e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (1.19e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (5.40e-09)
+│ * number of operations = 6
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.249975787600e-02 +1.662723778106e-13im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.258038037377e-02	err = 2.7936700404e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.258039275063e-02	err = 1.8336343905e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.258039281306e-02	err = 8.7945881693e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.258039281321e-02	err = 1.2086596204e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.258039281321e-02	err = 7.2408685932e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.258039281321e-02	err = 4.1821502632e-05	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.258039281321e-02	err = 2.8065215923e-06	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.258039281321e-02	err = 1.4872378059e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 9:	obj = +1.258039281321e-02	err = 5.3448892863e-09	time = 0.59 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.81e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (6.82e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (2.37e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (7.18e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (1.90e-08)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.258039281321e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.258039281320e-02	err = 1.6648831521e-01	time = 0.12 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.258039281321e-02	err = 2.3253263196e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.258039281321e-02	err = 5.3474165570e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.258039281320e-02	err = 6.8053154633e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.258039281321e-02	err = 6.8053157762e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.258039281321e-02	err = 5.3474167041e-02	time = 0.15 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.258039281320e-02	err = 6.8053154079e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.258039281321e-02	err = 6.8053157729e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.258039281321e-02	err = 5.3474167042e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.258039281320e-02	err = 6.8053154079e-02	time = 0.23 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.258039281321e-02	err = 6.8053157729e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.258039281321e-02	err = 5.3474167042e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.258039281320e-02	err = 6.8053154079e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.258039281321e-02	err = 6.8053157729e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.258039281321e-02	err = 5.3474167042e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.258039281320e-02	err = 6.8053154079e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.258039281321e-02	err = 6.8053157729e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.258039281321e-02	err = 5.3474167042e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.258039281320e-02	err = 6.8053154079e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.258039281321e-02	err = 6.8053157729e-02	time = 1.66 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +6.556591901103e-03 +1.286388530419e-13im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +8.709792031935e-03 +4.442050026421e-13im	err = 3.5755396449e-01	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +8.749117700378e-03	err = 4.2529907891e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +8.749875627720e-03	err = 1.4896828056e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +8.749891418606e-03	err = 4.2149767690e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +8.749891764244e-03	err = 4.5006868839e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +8.749891772022e-03	err = 2.6709557403e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +8.749891772200e-03	err = 7.6748401861e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +8.749891772204e-03	err = 1.5085604840e-04	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +8.749891772204e-03	err = 5.5858933235e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +8.749891772204e-03	err = 5.7898058388e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +8.749891772204e-03	err = 2.3089785392e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +8.749891772204e-03	err = 1.8840195290e-07	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +8.749891772204e-03	err = 1.4211572321e-08	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 14:	obj = +8.749891772204e-03	err = 5.6159204764e-09	time = 0.94 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (6.27e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (7.11e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (3.96e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (4.23e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (1.18e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 6: 0 values converged, normres = (7.64e-08)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (1.27e-09)
+│ * number of operations = 7
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.109202507343e-02 +7.231281545783e-14im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.123710952471e-02	err = 1.7262602893e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.123718360285e-02	err = 1.1149924390e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.123718376563e-02	err = 5.8559655162e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.123718376604e-02	err = 9.9508874601e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.123718376604e-02	err = 1.5680324415e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.123718376604e-02	err = 1.1057839017e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.123718376604e-02	err = 4.1103178921e-06	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.123718376604e-02	err = 1.0145340799e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 9:	obj = +1.123718376604e-02	err = 9.1790928284e-09	time = 0.61 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (2.51e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (8.82e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (2.92e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.19e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (3.17e-08)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.123718376604e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.123718376605e-02	err = 1.8279654654e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.123718376605e-02	err = 7.4793173069e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.123718376605e-02	err = 1.8868195330e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.123718376605e-02	err = 7.4797587259e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.123718376605e-02	err = 1.8306655507e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.123718376605e-02	err = 7.4801807660e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.123718376605e-02	err = 1.8868229605e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.123718376605e-02	err = 7.4797586913e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.123718376605e-02	err = 1.8305960217e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.123718376605e-02	err = 7.4793368294e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.123718376605e-02	err = 1.8868192563e-01	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.123718376605e-02	err = 7.4797586898e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.123718376605e-02	err = 1.8306655507e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.123718376605e-02	err = 7.4801807660e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.123718376605e-02	err = 1.8868229605e-01	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.123718376605e-02	err = 7.4797586913e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.123718376605e-02	err = 1.8305960217e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.123718376605e-02	err = 7.4793368294e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.123718376605e-02	err = 1.8868192563e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.123718376605e-02	err = 7.4797586898e-02	time = 1.39 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +9.740991959215e-03	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.029705862811e-02 +2.222154751874e-13im	err = 2.4253798817e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.030016274490e-02	err = 3.6227274242e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.030018459609e-02	err = 6.3678685767e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.030018475293e-02	err = 1.7987611498e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.030018475406e-02	err = 6.6793677547e-03	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.030018475407e-02	err = 2.3009807083e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.030018475407e-02	err = 2.9515423346e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.030018475407e-02	err = 2.1232179006e-06	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.030018475407e-02	err = 1.7453625826e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.030018475407e-02	err = 1.5102715712e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 11:	obj = +1.030018475407e-02	err = 1.1070553597e-09	time = 0.77 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (3.48e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (2.41e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (9.04e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (5.42e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (8.38e-08)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (4.30e-09)
+│ * number of operations = 6
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.030018475407e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.030018475407e-02	err = 1.1915338918e-01	time = 0.12 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.030018475407e-02	err = 8.6590317076e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.030018475407e-02	err = 6.0425896179e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.030018475407e-02	err = 8.6595447653e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.030018475407e-02	err = 6.0425909704e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.030018475407e-02	err = 8.6595443462e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.030018475407e-02	err = 6.0425909673e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.030018475407e-02	err = 8.6595443464e-02	time = 1.43 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.253834785003e-02 -1.203464411459e-13im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.277259249024e-02 -5.251701851172e-14im	err = 1.3523765977e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.277289236730e-02	err = 1.9960149422e-01	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.277289286680e-02	err = 3.6064329862e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.277289286776e-02	err = 5.3307853469e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.277289286776e-02	err = 1.5055978076e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.277289286776e-02	err = 5.0800721044e-05	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.277289286776e-02	err = 4.5626740504e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.277289286776e-02	err = 1.6914097644e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.277289286776e-02	err = 1.1618849193e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 10:	obj = +1.277289286776e-02	err = 3.9939820226e-10	time = 0.69 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (2.00e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (7.63e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (1.89e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (7.54e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (1.09e-08)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.277289286776e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.277289286776e-02	err = 1.1445133056e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.277289286776e-02	err = 2.6241797325e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.277289286776e-02	err = 2.5302688039e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.277289286776e-02	err = 8.2341032034e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.277289286776e-02	err = 5.6691703472e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.277289286776e-02	err = 2.5302659878e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.277289286776e-02	err = 8.2341082985e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.277289286776e-02	err = 5.6691703462e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.277289286776e-02	err = 2.5302659878e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.277289286776e-02	err = 8.2341082985e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.277289286776e-02	err = 5.6691703462e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.277289286776e-02	err = 2.5302659878e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.277289286776e-02	err = 8.2341082985e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.277289286776e-02	err = 5.6691703462e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.277289286776e-02	err = 2.5302659878e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.277289286776e-02	err = 8.2341082985e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.277289286776e-02	err = 5.6691703462e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.277289286776e-02	err = 2.5302659878e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.277289286776e-02	err = 8.2341082985e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.277289286776e-02	err = 5.6691703462e-02	time = 1.43 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.363018197128e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.364718183651e-02	err = 4.8271343594e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.364720588962e-02	err = 4.6561595770e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.364720594101e-02	err = 1.4574650042e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.364720594113e-02	err = 3.3347209321e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.364720594113e-02	err = 9.5432445885e-04	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.364720594113e-02	err = 1.6641677926e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.364720594113e-02	err = 5.0228709000e-07	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.364720594113e-02	err = 8.3128102923e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 9:	obj = +1.364720594113e-02	err = 5.1818378597e-09	time = 0.62 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.86e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (8.44e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (2.15e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (7.68e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (9.57e-09)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.364720594113e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.364720594112e-02	err = 5.9029812622e-02	time = 0.13 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.364720594112e-02	err = 8.0677328239e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.364720594112e-02	err = 7.1112863877e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.364720594112e-02	err = 2.2906184814e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.364720594112e-02	err = 8.0677226267e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.364720594112e-02	err = 7.1113679035e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.364720594112e-02	err = 2.2906184755e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.364720594112e-02	err = 8.0677226266e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.364720594112e-02	err = 7.1113679035e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.364720594112e-02	err = 2.2906184755e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.364720594112e-02	err = 8.0677226266e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.364720594112e-02	err = 7.1113679035e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.364720594112e-02	err = 2.2906184755e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.364720594112e-02	err = 8.0677226266e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.364720594112e-02	err = 7.1113679035e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.364720594112e-02	err = 2.2906184755e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.364720594112e-02	err = 8.0677226266e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.364720594112e-02	err = 7.1113679035e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.364720594112e-02	err = 2.2906184755e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.364720594112e-02	err = 8.0677226266e-02	time = 1.60 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.448633955267e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.449391920992e-02	err = 6.2240180938e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.449393515901e-02	err = 4.6416308303e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.449393519942e-02	err = 1.1208261283e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.449393519952e-02	err = 2.8190763810e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.449393519953e-02	err = 9.5446430259e-04	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.449393519953e-02	err = 1.8720111950e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.449393519953e-02	err = 7.1120897076e-07	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.449393519953e-02	err = 2.4670440089e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 9:	obj = +1.449393519953e-02	err = 3.7983221230e-09	time = 0.60 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (1.88e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (9.72e-04)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (2.39e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (8.28e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (1.32e-08)
+│ * number of operations = 5
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.449393519953e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.449393519953e-02	err = 8.5007439528e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.449393519953e-02	err = 8.8688223069e-02	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.449393519953e-02	err = 8.8687686477e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.449393519953e-02	err = 8.5005949946e-02	time = 0.13 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.449393519953e-02	err = 6.5265708505e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.449393519953e-02	err = 8.8687688705e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.449393519953e-02	err = 8.5006111289e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.449393519953e-02	err = 6.5265706890e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.449393519953e-02	err = 8.8687688719e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.449393519953e-02	err = 8.5006111360e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.449393519953e-02	err = 6.5265707422e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.449393519953e-02	err = 8.8687688726e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.449393519953e-02	err = 8.5006111436e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.449393519953e-02	err = 6.5265708352e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.449393519953e-02	err = 8.8687688708e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.449393519953e-02	err = 8.5006111366e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.449393519953e-02	err = 6.5265707425e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.449393519953e-02	err = 8.8687688702e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.449393519953e-02	err = 8.5006111289e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.449393519953e-02	err = 6.5265706890e-02	time = 1.59 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.557376390821e-02 -2.094973500233e-13im	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.572919935485e-02	err = 1.8726511101e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.572965835869e-02	err = 1.2945686727e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.572966046805e-02	err = 5.0531790841e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.572966047769e-02	err = 1.4136525964e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.572966047773e-02	err = 1.1458303724e-03	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.572966047773e-02	err = 3.8285190097e-05	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.572966047773e-02	err = 2.6972894777e-06	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.572966047773e-02	err = 1.2185238760e-07	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.572966047773e-02	err = 1.2007158617e-08	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 10:	obj = +1.572966047773e-02	err = 6.3631540794e-10	time = 0.71 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (2.30e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (1.52e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (3.68e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (1.56e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (4.54e-08)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (9.93e-10)
+│ * number of operations = 6
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.572966047773e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.572966047773e-02	err = 9.3075681832e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.572966047773e-02	err = 1.8940392189e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.572966047773e-02	err = 2.8715318480e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.572966047773e-02	err = 1.8940175540e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.572966047773e-02	err = 2.8715319102e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.572966047773e-02	err = 1.8940175615e-02	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.572966047773e-02	err = 2.8715319104e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.572966047773e-02	err = 1.8940175614e-02	time = 1.54 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Info: CTMRG init:	obj = +1.423038531843e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.551069664335e-02	err = 5.2020156069e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.551716213944e-02	err = 3.0331893293e-01	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.551720842318e-02	err = 1.4521537303e-01	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.551720877881e-02	err = 4.2892131193e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.551720878162e-02	err = 3.0563177026e-03	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.551720878164e-02	err = 1.9931610161e-04	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.551720878164e-02	err = 2.7063646924e-05	time = 0.08 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.551720878164e-02	err = 1.3347597331e-06	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.551720878164e-02	err = 2.1491674511e-07	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.551720878164e-02	err = 1.0111176906e-08	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG conv 11:	obj = +1.551720878164e-02	err = 1.7151271795e-09	time = 0.88 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:167
+┌ Info: Arnoldi schursolve in iteration 1, step = 1: 0 values converged, normres = (2.88e-02)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 2: 0 values converged, normres = (2.23e-03)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 3: 0 values converged, normres = (6.65e-05)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 4: 0 values converged, normres = (6.11e-06)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi schursolve in iteration 1, step = 5: 0 values converged, normres = (1.04e-07)
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:411
+┌ Info: Arnoldi realeigsolve finished after 1 iterations:
+│ * 1 eigenvalues converged
+│ * norm of residuals = (2.37e-09)
+│ * number of operations = 6
+└ @ KrylovKit /Users/gfedorov/.julia/packages/KrylovKit/bEE7W/src/eigsolve/arnoldi.jl:342
+┌ Info: CTMRG init:	obj = +1.551720878164e-02	err = 1.0000e+00
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:161
+┌ Info: CTMRG   1:	obj = +1.551720878164e-02	err = 1.1576726477e-01	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   2:	obj = +1.551720878164e-02	err = 4.3539776240e-02	time = 0.11 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   3:	obj = +1.551720878164e-02	err = 1.9281504071e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   4:	obj = +1.551720878164e-02	err = 4.3531043036e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   5:	obj = +1.551720878164e-02	err = 1.9281513603e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   6:	obj = +1.551720878164e-02	err = 4.3538694897e-02	time = 0.12 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   7:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   8:	obj = +1.551720878164e-02	err = 4.3531043307e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG   9:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  10:	obj = +1.551720878164e-02	err = 4.3538694898e-02	time = 0.07 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  11:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.09 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  12:	obj = +1.551720878164e-02	err = 4.3531043307e-02	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  13:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  14:	obj = +1.551720878164e-02	err = 4.3538694898e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  15:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.05 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  16:	obj = +1.551720878164e-02	err = 4.3531043307e-02	time = 0.10 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  17:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  18:	obj = +1.551720878164e-02	err = 4.3538694898e-02	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Info: CTMRG  19:	obj = +1.551720878164e-02	err = 1.9281513615e-03	time = 0.06 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:164
+┌ Warning: CTMRG cancel 20:	obj = +1.551720878164e-02	err = 4.3531043307e-02	time = 1.45 sec
+└ @ PEPSKit /Users/gfedorov/.julia/packages/PEPSKit/a5eYH/src/algorithms/ctmrg/ctmrg.jl:170
+┌ Warning: LBFGS: not converged to requested tol after 10 iterations and time  2.28 m: f = 7.058843555655e+00, ‖∇f‖ = 3.4427e-01
+└ @ OptimKit /Users/gfedorov/.julia/packages/OptimKit/S0cVY/src/lbfgs.jl:199
